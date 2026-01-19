@@ -1,4 +1,3 @@
-# Sahaaya-A-Hope-of-Beginning.
 # SAHAAYA - Adoption Support Platform
 
 A beginner-friendly React web application that connects loving families with children in need of adoption. The platform allows parents to view, add, edit, and manage child profiles similar to matrimony profile cards.

@@ -1,0 +1,227 @@
+{
+  "children": [
+    {
+      "id": 1,
+      "name": "Aarav",
+      "age": 10,
+      "dream": "Wants to become a doctor",
+      "bio": "Quiet, kind, and loves science. Aarav spends hours reading medical books and dreams of helping others.",
+      "imageUrl": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=400&h=400&fit=crop&q=80"
+    },
+    {
+      "name": "Meera",
+      "age": 9,
+      "dream": "Wants to become a teacher",
+      "bio": "Helps other kids in studies. Meera is patient, caring, and loves sharing knowledge with her friends.",
+      "imageUrl": "https://thumbs.dreamstime.com/z/portrait-nine-year-old-girl-series-photos-girl-years-old-portrait-nine-year-old-girl-child-walking-163908365.jpg",
+      "id": 2
+    },
+    {
+      "name": "Rohan",
+      "age": 11,
+      "dream": "Wants to become an engineer",
+      "bio": "Creative and curious, Rohan loves building things and solving problems. He's always tinkering with new ideas.",
+      "imageUrl": "https://images.pexels.com/photos/1288182/pexels-photo-1288182.jpeg?cs=srgb&dl=pexels-juanlaurio-1288182.jpg&fm=jpg",
+      "id": 3
+    },
+    {
+      "name": "Priya",
+      "age": 8,
+      "dream": "Wants to become an artist",
+      "bio": "Talented young artist who loves painting and drawing. Priya expresses her emotions through beautiful artwork.",
+      "imageUrl": "https://c8.alamy.com/comp/AWE33P/portrait-of-a-4-year-old-girl-AWE33P.jpg",
+      "id": 4
+    },
+    {
+      "name": "Arjun",
+      "age": 12,
+      "dream": "Wants to become a scientist",
+      "bio": "Passionate about experiments and discovery. Arjun asks thoughtful questions and loves learning about the world.",
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.F0fED3oKxbsaOlzIn6JFuwHaKe?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "id": 5
+    },
+    {
+      "name": "Kavya",
+      "age": 9,
+      "dream": "Wants to become a dancer",
+      "bio": "Graceful and energetic, Kavya loves expressing herself through dance. She practices daily and dreams of performing on stage.",
+      "imageUrl": "https://c8.alamy.com/comp/EA8T7T/young-girl-in-the-garden-EA8T7T.jpg",
+      "id": 6
+    },
+    {
+      "name": "Vikram",
+      "age": 10,
+      "dream": "Wants to become a pilot",
+      "bio": "Fascinated by airplanes and the sky. Vikram reads about aviation and dreams of flying around the world one day.",
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.fw03Y9du809equXr34YdyQHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "id": 7
+    },
+    {
+      "name": "Ananya",
+      "age": 8,
+      "dream": "Wants to become a veterinarian",
+      "bio": "Loves animals and cares deeply for them. Ananya wants to help sick and injured animals when she grows up.",
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.JiTl1G3eh59XVGKA1ptLpQHaLG?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "id": 8
+    },
+    {
+      "name": "Rahul",
+      "age": 11,
+      "dream": "Wants to become a chef",
+      "bio": "Enjoys cooking and experimenting with flavors. Rahul loves helping in the kitchen and dreams of opening his own restaurant.",
+      "imageUrl": "https://images.pexels.com/photos/16187289/pexels-photo-16187289.jpeg?cs=srgb&dl=pexels-jakaria-hussain-adnan-2296738-16187289.jpg&fm=jpg",
+      "id": 9
+    },
+    {
+      "name": "Sneha",
+      "age": 9,
+      "dream": "Wants to become a writer",
+      "bio": "Imaginative storyteller who loves reading and writing. Sneha creates wonderful stories and poems that inspire others.",
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.vqKynOz-NpXV0JFICTgmbQHaLH?w=600&h=900&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "id": 10
+    },
+    {
+      "name": "Aditya",
+      "age": 10,
+      "dream": "Wants to become a musician",
+      "bio": "Talented with musical instruments and has a beautiful voice. Aditya brings joy to everyone with his music.",
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.BVAudMumxun43owzfvGHnwHaLH?w=4000&h=6000&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "id": 11
+    },
+    {
+      "name": "Isha",
+      "age": 8,
+      "dream": "Wants to become a nurse",
+      "bio": "Compassionate and caring, Isha wants to help people feel better. She's always looking out for others.",
+      "imageUrl": "https://thumbs.dreamstime.com/b/friendly-smile-9115573.jpg",
+      "id": 12
+    },
+    {
+      "name": "Karan",
+      "age": 12,
+      "dream": "Wants to become a lawyer",
+      "bio": "Fair-minded and articulate, Karan wants to help people get justice. He's passionate about fairness and equality.",
+      "imageUrl": "https://thumbs.dreamstime.com/b/portrait-indian-little-boy-posing-to-camera-77065938.jpg",
+      "id": 13
+    },
+    {
+      "name": "Divya",
+      "age": 9,
+      "dream": "Wants to become a photographer",
+      "bio": "Sees beauty in everything and loves capturing moments. Divya has a keen eye for detail and composition.",
+      "imageUrl": "https://media.istockphoto.com/photos/portrait-of-teen-girl-smiling-picture-id515075120?k=20&m=515075120&s=612x612&w=0&h=F7bASvM9PrRa2TYCNy66sjy9UgudMi2zXNtLBsjWnZE=",
+      "id": 14
+    },
+    {
+      "name": "Manav",
+      "age": 11,
+      "dream": "Wants to become a footballer",
+      "bio": "Athletic and determined, Manav practices football daily. He dreams of playing professionally and representing his country.",
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.LsNAf-mEXfWXvlO3aV070gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "id": 15
+    },
+    {
+      "name": "Neha",
+      "age": 10,
+      "dream": "Wants to become a doctor",
+      "bio": "Caring and intelligent, Neha wants to save lives. She studies hard and is always ready to help others in need.",
+      "imageUrl": "https://www.shutterstock.com/image-photo/indian-marathi-little-girl-traditional-260nw-2216170179.jpg",
+      "id": 16
+    },
+    {
+      "name": "Rishi",
+      "age": 9,
+      "dream": "Wants to become an astronaut",
+      "bio": "Fascinated by space and stars. Rishi reads about planets and dreams of exploring the universe one day.",
+      "imageUrl": "https://as1.ftcdn.net/v2/jpg/03/69/78/16/1000_F_369781679_x72Mwi07nJ9q7M3Bvcd695TUo7pmxqOl.jpg",
+      "id": 17
+    },
+    {
+      "name": "Pooja",
+      "age": 8,
+      "dream": "Wants to become a teacher",
+      "bio": "Patient and kind, Pooja loves helping younger children learn. She's a natural teacher with endless patience.",
+      "imageUrl": "https://image.shutterstock.com/image-photo/portrait-little-girl-indian-origin-260nw-358039856.jpg",
+      "id": 18
+    },
+    {
+      "name": "Siddharth",
+      "age": 11,
+      "dream": "Wants to become a computer programmer",
+      "bio": "Tech-savvy and creative, Siddharth loves coding and building apps. He dreams of creating software that helps people.",
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.NAaSKCgmKbmVs2ilfDDfbQHaE7?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "id": 19
+    },
+    {
+      "name": "Aanya",
+      "age": 9,
+      "dream": "Wants to become a social worker",
+      "bio": "Empathetic and dedicated, Aanya wants to help those in need. She's always thinking of ways to make the world better.",
+      "imageUrl": "https://tse1.explicit.bing.net/th/id/OIP.UQehnNlhPeog2a6x-s4ckAHaLs?w=880&h=1390&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "id": 20
+    },
+    {
+      "name": "Yash",
+      "age": 10,
+      "dream": "Wants to become a firefighter",
+      "bio": "Brave and helpful, Yash wants to save people from danger. He's courageous and always ready to help others.",
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.WgFWCj60KLIF3wIsdD9K4wAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "id": 21
+    },
+    {
+      "name": "Riya",
+      "age": 8,
+      "dream": "Wants to become a singer",
+      "bio": "Beautiful voice and loves performing. Riya brings happiness to everyone with her songs and dreams of recording albums.",
+      "imageUrl": "https://tse1.explicit.bing.net/th/id/OIP.GSvGWoHPDuR9drewUG9pfAHaLH?w=600&h=900&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "id": 22
+    }
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "title": "From Fear to Confidence",
+      "description": "How SAHAAYA helped Riya gain confidence through education and support. Today, she's a confident young girl pursuing her dreams."
+    },
+    {
+      "id": 2,
+      "title": "A New Beginning",
+      "description": "Aarav came to SAHAAYA shy and withdrawn. Through our programs, he discovered his passion for science and is now thriving."
+    },
+    {
+      "id": 3,
+      "title": "The Power of Education",
+      "description": "Meera's journey from struggling with studies to becoming a top student and helping others shows the transformative power of education."
+    }
+  ],
+  "bookings": [
+    {
+      "name": "MOHAMMED  FARHAAN ",
+      "email": "mfarhaan0712@gmail.com",
+      "phone": "9858111466",
+      "birthdayDate": "2025-12-07",
+      "mealTime": "lunch",
+      "city": "Kolkata",
+      "area": "Dum Dum",
+      "numberOfGuests": "9",
+      "message": "",
+      "status": "accepted",
+      "createdAt": "2025-11-30T20:47:08.112Z",
+      "id": 1
+    },
+    {
+      "name": "MOHAMMED  FARHAAN ",
+      "email": "sahasra_grandhe@srmap.edu.in",
+      "phone": "9858111466",
+      "birthdayDate": "2025-12-18",
+      "mealTime": "dinner",
+      "city": "Bangalore",
+      "area": "Whitefield",
+      "numberOfGuests": "8",
+      "message": "",
+      "status": "accepted",
+      "createdAt": "2025-12-01T04:13:22.206Z",
+      "id": 2
+    }
+  ]
+}
